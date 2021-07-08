@@ -16,4 +16,4 @@ Heroku URL : https://alaa-sql-api.herokuapp.com/
 
 Github Actions : https://github.com/Alaa-AbuIssa/sql-api-server/actions
 
-Pull Request: https://github.com/Alaa-AbuIssa/api-server/pull/1
+Pull Request: https://github.com/Alaa-AbuIssa/sql-api-server/pull/2
