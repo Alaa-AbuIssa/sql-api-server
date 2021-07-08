@@ -2,7 +2,7 @@
 
 ## Author: Alaa Abu Issa
 Requirement
-we will be building an Api server using best practices, including server modularization, use of middleware, and tests.
+we will be building a Sql-Api server using best practices, including server modularization, use of middleware, and tests.
 
 ## UML
 
